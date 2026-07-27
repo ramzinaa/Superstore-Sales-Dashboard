@@ -119,9 +119,10 @@ The Power BI dashboard includes:
 
 ---
 
+
 ## 📷 Dashboard Preview
 
-![Superstore Sales Dashboard](screenshots/dashboard.png)
+[View Dashboard Screenshot](screenshots/dashboard.png)
 
 ---
 
